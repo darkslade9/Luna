@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+ cout<<"You ain't nothing but a hound doge";
+ getch();
+}
